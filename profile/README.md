@@ -15,8 +15,7 @@ There are 2 environments:
 
 | Branch     | Status             | Purpose                            | Source branch | Note                                                                           |
 | ---------- | ------------------ | ---------------------------------- | ------------- | ------------------------------------------------------------------------------ |
-| `master`   | __stable__         | Only for production environment    | ORIGIN BRANCH | Only approve pull requests from `develop` branch with at least 1approver       |
-|            |                    |                                    |               | Approvers: `QuanVo308`, `thai-nm`, `Minh0511`                                  |
+| `master`   | __stable__         | Only for production environment    | ORIGIN BRANCH | Only approve pull requests from `develop` branch with at least 1approver       |                            |
 |            |                    |                                    |               | DO NOT PUSH directly to this branch                                            |
 | `develop`  | __unstable__       | Only for developing application    | `master`      | Free to push and merge, with the responsibility of resolving issues if happens |
 |            |                    |                                    |               | SHOULD NOT PUSH directly to this branch, create a `feature` branch instead     |
