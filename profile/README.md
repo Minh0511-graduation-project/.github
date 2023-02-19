@@ -1,6 +1,6 @@
 # PROJECT: Graduation project
 
-*Ecomerce related project for my gradutaion.*
+*My gradutaion project, an ecommerce related website*
 
 ## Introduction
 
